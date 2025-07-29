@@ -1,3 +1,4 @@
+//this is a leetcode easy problem
 public class LengthOfTheLastWord {
     public static void main(String[] args) {
         String sentence="  alpha   beta   gamma   delta   -  ";
